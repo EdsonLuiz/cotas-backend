@@ -6,4 +6,4 @@
 - change 2
 
 ## Additional info
-- Some important or technical information
+- Some important or technical information.
